@@ -1,7 +1,7 @@
 {
     "name": "Nhentai telegram bot",
     "description": "A simple Nodejs telegram bot for reading doujings from nhentai, instantly up and running (not always).",
-    "repository": "https://github.com/iamdowner/nhentai-telegram-bot",
+    "repository": "https://github.com/UserLazy/TG-nHentai-Bot",
     "keywords": [
         "Nodejs",
         "Heroku",
